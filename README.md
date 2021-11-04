@@ -1,3 +1,8 @@
+# Slacker247 Fork of php Virtual Box
+
+Nobody seems to be maintaining this anymore.  It doesn't work with the latest version of Virtual Box.  I'm working to make it version agnostic.
+
+
 # About
 
 phpVirtualBox is from 2017 maintained by Smart Guide Pty Ltd (tudor at smartguide dot com dot au)
